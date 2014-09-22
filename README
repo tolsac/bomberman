@@ -1,0 +1,25 @@
+//	OBJECTIFS
+//	notes : tester d emblee sur une grande map type [100;100]
+//	ne pas oublier : Class Camera
+
+/!\ LES INCLUDES SONT A FAIRE !!!!!!!!!!
+//bombermanCommon.hh ne contient que les includes de la libC et des DEFINES ET ENUMS
+
+Groupe1 : boyer_b;tolsa_c
+Groupe2 : biret-_v;barnet_m
+Groupe3 : clariv_e;bourle_b
+
+Bloc.hh / Ground.hh / Bomb.hh / Box.hh / Camera.hh -> Groupe3
+
+MyGame.hh / MyMap.hh -> Groupe1
+ 
+Bomberman.hh / Player.hh / IA.hh -> Groupe2
+
+OBJECTIFS DEMAIN
+ 1er->  10h :)
+ 2em->  GR1 : creation chargement de la map, randomisation de la map, creation des menus
+  	GR2 : Se documenter sur le LUA, link cpp et lua. LuaBind.
+	GR3 : 
+
+
+3em ->	GRTOUS : afficher map, multi, zzzZZzZZzzzZZZZZzzzZzzzZZ
